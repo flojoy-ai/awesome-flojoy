@@ -1,0 +1,11 @@
+{
+  "$schema": "schema.json",
+  "apps": [
+    {
+      "name": "Intro to Loops",
+      "description": "A quick crash course on loops in Flojoy",
+      "path": "loop.json",
+      "image": "introToLoops.png"
+    }
+  ]
+}
