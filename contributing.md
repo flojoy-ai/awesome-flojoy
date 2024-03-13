@@ -8,9 +8,9 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+- Make sure you app works properly when loading into Flojoy Studio.
+- Let us know how your app works in the PR description :)
+- Have fun!
 
 Thank you for your suggestions!
 
