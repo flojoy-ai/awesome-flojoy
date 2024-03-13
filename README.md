@@ -1,3 +1,5 @@
+![Flojoy](./assets/logo.png)
+
 # Awesome Flojoy [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome things related to Flojoy
@@ -8,7 +10,7 @@
 
 ## Studio Apps
 
-Here are some awesome Studio Apps that you can use with Flojoy.
+Here are some awesome apps that you can start using with Flojoy Studio.
 
 The easiest way to get started with those apps is by downloading the
 [Flojoy Studio](https://docs.flojoy.ai/studio/installation/) desktop app, and
