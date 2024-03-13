@@ -1,4 +1,4 @@
-![Flojoy](./assets/logo.png)
+<img src="./assets/logo.png" alt="Flojoy Logo" width="120" height="120">
 
 # Awesome Flojoy [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
