@@ -55,6 +55,8 @@ Automate current and voltage measurements.
 
 ### Signal Generators & Analyzers
 
+Generate, acquire, and analyze signal data.
+
 - [Tektronix 31000 AFG](https://docs.flojoy.ai/blocks/hardware/function-generators/tektronix/31000/afg-31000/)
 - [Keysight 33XXX](https://docs.flojoy.ai/blocks/hardware/function-generators/keysight/33xxx/connection-33510b/)
 - [HP 33120A Generator](https://docs.flojoy.ai/blocks/hardware/function-generators/hp/33120a/amplitude-33120a/)
@@ -62,6 +64,8 @@ Automate current and voltage measurements.
 - [Tektronix RSA500](https://docs.flojoy.ai/blocks/hardware/signal-analyzers/tektronix/rsa500/extract-spectrum-rsa500/)
 
 ### Digital Signal Processing
+
+Apply DSP to acquired measurement data.
 
 - [Butterworth](https://docs.flojoy.ai/blocks/dsp/butter/)
 - [PID simulation](https://docs.flojoy.ai/blocks/dsp/pid/)
@@ -71,6 +75,8 @@ Automate current and voltage measurements.
 
 ### Robotics & Motor Control
 
+Control precision movements with Flojoy.
+
 - [Meca500: Keyframes](https://docs.flojoy.ai/blocks/hardware/robotics/arms/meca500/move-keyframes/)
 - [Meca500: Circle movements](https://docs.flojoy.ai/blocks/hardware/robotics/arms/meca500/move-circle/)
 - [Meca500: Joint movements](https://docs.flojoy.ai/blocks/hardware/robotics/arms/meca500/move-joint/)
@@ -78,6 +84,8 @@ Automate current and voltage measurements.
 - [Stepper motor controller](https://docs.flojoy.ai/blocks/hardware/motors/stepper/polulu/tic/)
 
 ### Image Processing
+
+Apply image processing to acquired images.
 
 - [Log & Gamma Correction](https://docs.flojoy.ai/blocks/computer-vision/gamma-adjustment/)
 - [RGBA Channel Split](https://docs.flojoy.ai/blocks/computer-vision/channel-split/)
